@@ -28,6 +28,22 @@ nav ul li a {
     text-decoration: none;
 }
 
+.button-link {
+    display: inline-block;
+    background-color: #007bff; 
+    color: white; 
+    text-decoration: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    font-weight: bold; 
+}
+
+.button-link:hover {
+    background-color: #0056b3; 
+    color: #f4f4f4; 
+}
+
 .hero {
     background: #555;
     color: white;
